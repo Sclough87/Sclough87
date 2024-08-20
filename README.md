@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stephe Clough
+- 👋 Hi, I’m Stephen Clough
 - 👀 I’m interested in Ice Hockey, Fishing, and online gaming
 - 🌱 I’m currently majoring in Global Cybersecurity
 - 💞️ I’m looking to collaborate on coding
